@@ -29,9 +29,9 @@ Game Place ID: ##########
 IP: ###.###.###.###
 
 Join the skid by executing this code!: 
-```lua
+``lua
 game:GetService("TeleportService"):TeleportToPlaceInstance(##########, "########-####-####-####-############", game:GetService("Players").LocalPlayer);
-```
+``
 ```
 
 ```
