@@ -37,3 +37,13 @@ game:GetService("TeleportService"):TeleportToPlaceInstance(##########, "########
 ```
 [[##########]] IvanTheScript (@IvanTheProtogen0) >> Hello World!
 ```
+
+### Unused Message 
+
+There's one message, that is supposed to fire when the player exits. But `game.OnClose` and `game:BindToClose()` are only executable on the server.
+
+#### Preview 
+
+```
+# SESSION #`##########` ENDED
+```
